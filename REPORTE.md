@@ -89,4 +89,6 @@ La medición no discrimina entre ambos (todo 14/14), así que mi respuesta se ap
 
 
 
-PD: me ayude con ia para que este reporte quedara mejor redactado y mas ordenado u.u 
+PD: me ayude con ia para que este reporte quedara mejor redactado y mas ordenado u.u
+
+por otra parte me paso lo mismo que se mencionaba en el foro pero la vdd dsp no tengo tiempo de modificar esta tarea asi que no pude esperar la respuesta del foro. si algo esta mal prdn u.u
