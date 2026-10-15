@@ -1,0 +1,22 @@
+{
+"apply_coupon": [
+["qty >= 3"],
+["not (qty >= 3)"]
+],
+"tarifa_noche": [
+["dias > 7", "piso > 10"],
+["dias > 7", "not (piso > 10)"],
+["not (dias > 7)", "edad < 25"],
+["not (dias > 7)", "not (edad < 25)"]
+],
+"puntaje_riesgo": [
+["monto > 500000", "mora > 30", "avales < 2"],
+["monto > 500000", "mora > 30", "not (avales < 2)"],
+["monto > 500000", "not (mora > 30)", "historial < 12"],
+["monto > 500000", "not (mora > 30)", "not (historial < 12)"],
+["not (monto > 500000)", "mora > 90", "avales < 1"],
+["not (monto > 500000)", "mora > 90", "not (avales < 1)"],
+["not (monto > 500000)", "not (mora > 90)", "historial < 6"],
+["not (monto > 500000)", "not (mora > 90)", "not (historial < 6)"]
+]
+}
